@@ -17,7 +17,7 @@
 #ifndef _HETERLIST_H
 #define _HETERLIST_H
 
-/*heterList node defination*/
+/*heterList data structure defination*/
 typedef struct Node_S ListNode_S;
 typedef ListNode_S *pstList;
 struct Node_S
